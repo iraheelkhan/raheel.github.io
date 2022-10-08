@@ -3,8 +3,8 @@
 
 #### I'm a Full-Stack Developer based in Islamabad, Pakistan.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Global Fund PR Office**
-- ⚙️ I use daily: `.blade.php`, `.js`, `.php`, `.md`, `.html`, `.scss`, `.png`, `.json`, `.sql`, `.vscode`
+- 🏢 I'm currently working full-time with awesome peeps at **Zoofy**
+- ⚙️ I use daily: `.vue`, `jsx`, `.blade.php`, `.js`, `.php`, `.json`, `.sql`,
 - 💅 Active community member of: **StackOverFlow, Laravel Community**
 - 🌱 Learning more about and studying: **Open Source, React, Advance Laravel**
 - 💬 Ping me about: **Web Development**, **Web Apps**, **WordPress**
