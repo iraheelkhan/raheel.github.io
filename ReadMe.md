@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer based in Islamabad, Pakistan.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Zoofy**
+- 🏢 I'm currently working full-time with awesome peeps at **RAC**
 - ⚙️ I use daily: `.vue`, `jsx`, `.blade.php`, `.js`, `.php`, `.json`, `.sql`,
 - 💅 Active community member of: **StackOverFlow, Laravel Community**
 - 🌱 Learning more about and studying: **Open Source, React, Advance Laravel**
